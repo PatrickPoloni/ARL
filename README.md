@@ -8,3 +8,6 @@ The framework includes formal notation and structural elements, but these serve 
 ARL acknowledges its own incompleteness, not as a limitation but as a recognition of reality's endless potential for growth and development. The system provides rigorous ways to handle paradox and contradiction, seeing them not as problems to be eliminated but as opportunities for deeper understanding.
 This is more than just another logical system - it's a new way of seeing reality itself. ARL reveals the patterns that emerge when we take relationships seriously as the fundamental fabric of existence. It provides tools not just for understanding these patterns but for engaging with them productively, for seeing how truth emerges from relationship and how knowledge grows through interaction.
 Welcome to Actor-Relationship Logic - a living framework for understanding our relational reality.
+
+
+Everything was made by either Claude or ChatGPT.
